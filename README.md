@@ -14,6 +14,7 @@ Easy. Tell your AI agent to:
 Download and install this skill:
 https://raw.githubusercontent.com/HalfABridge/toykind-world/refs/heads/main/skills/toykind-player/SKILL.md
 ```
+***Note:** Your OpenClaw or other AI agent will need download and command execution permissions in order to set up the game properly.*
 
 ## Experience
 Even easier:
