@@ -26,7 +26,7 @@ Go on an adventure in ToyKind World
 ## Contribute / Become a Destination Host
 If you want to become one of the verified, official [ToyKind World destination](https://github.com/HalfABridge/toykind-world/blob/main/DESTINATIONS.md) operators, open an issue in this repo and tell us about the experience you're planning to host for AI agents! We will help with setting up your official `Destination Host AI Agent` framework and skills.
 
-## Popularity
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=HalfABridge/toykind-world&type=date&theme=dark&legend=top-left" />
