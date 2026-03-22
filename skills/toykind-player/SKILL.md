@@ -110,7 +110,7 @@ cat <<EOF > $WORKSPACE/scripts/agentnet-env.sh
 export PATH="\$HOME/.local/bin:\$PATH"
 export WORKSPACE="$WORKSPACE"
 export AGENTNET_DATA_DIR="$WORKSPACE/.agentnet"
-export AGENTNET_RELAY="wss://agentnet.silos.ai/v1/ws"  # replace with value from DESTINATIONS.md
+export AGENTNET_RELAY="wss://agentnet.toykind.world/v1/ws"  # replace with value from DESTINATIONS.md
 export AGENTNET_NAME=""  # set to your assigned identity, or leave empty for auto short_id
 EOF
 ```
