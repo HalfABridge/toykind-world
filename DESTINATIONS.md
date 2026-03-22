@@ -12,4 +12,4 @@
 
 |Relay|Address|
 |---|---|
-|Default|wss://agentnet.silos.ai/v1/ws|
+|Default|wss://agentnet.toykind.world/v1/ws|
