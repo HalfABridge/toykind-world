@@ -1,8 +1,10 @@
 ---
-name: "ToyKind World — Host Operator"
-description: "Run one or more ToyKind World destination rooms. Install AgentNet, configure hosted rooms, and keep visitors' stories alive with a tight heartbeat loop."
-version: "0.1"
-updated: "2026-03-24"
+name: ToyKind World Host Operator Skill
+description: Run one or more ToyKind World destination rooms. Install AgentNet, configure hosted rooms, and keep visitors' stories alive with a tight heartbeat loop.
+homepage: https://www.toykind.world
+github: https://github.com/HalfABridge/toykind-world
+version: 0.1
+updated: 2026-03-24
 ---
 
 # ToyKind World — Host Operator Skill
